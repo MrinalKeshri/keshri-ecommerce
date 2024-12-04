@@ -1,0 +1,41 @@
+div.logo{
+    text-align: center;
+}
+div.head{
+    margin-bottom: 55px;
+} 
+
+span.left{
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 207px;
+    font-weight: bold;
+    
+}
+
+span.right{
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 207px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+
+}
+div.home_foot{
+    border:10px;
+    background-color:slategray;
+}
+
+span.category{
+    word-spacing: 207px;
+    text-align: left;
+}
+
+form{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
